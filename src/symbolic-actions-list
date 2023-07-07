@@ -1,0 +1,4 @@
+system-lock-screen.png <- xfsm-lock.png
+system-log-out.png <- org.xfce.panel.actions.png
+system-log-out.png <- xfsm-logout.png
+system-shutdown.png <- xfsm-shutdown.png

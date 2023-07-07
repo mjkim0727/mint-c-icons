@@ -7,12 +7,12 @@ sizes = ["16", "22", "24", "32", "48", "64", "96", "128"]
 
 def generate_color(color):
     source = f"{color}.svg"
-    green_dir = "../../usr/share/icons/Mint-Y"
+    green_dir = "../../usr/share/icons/Mint-C"
     if color == "Green":
         theme_dir = green_dir
         os.system(f"mkdir -p {theme_dir}")
     else:
-        theme_dir = "../../usr/share/icons/Mint-Y-%s" % color
+        theme_dir = "../../usr/share/icons/Mint-C-%s" % color
         os.system(f"mkdir -p {theme_dir}")
         os.system(f"rm -rf {theme_dir}/*")
         os.system(f"cp -R {green_dir}/places {theme_dir}/")
@@ -56,7 +56,7 @@ def generate_color(color):
 
 def parse_arg(arg):
     if arg == "All":
-        os.system("rm -rf ../../usr/share/icons/Mint-Y-*")
+        os.system("rm -rf ../../usr/share/icons/Mint-C-*")
         for filename in sorted(os.listdir(".")):
             if filename.endswith(".svg") and filename not in ["extra.svg", "src.svg"]:
                 color = filename.replace(".svg", "")

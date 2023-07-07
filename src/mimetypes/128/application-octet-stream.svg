@@ -1,38 +1,58 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   id="svg3172"
-   height="128"
    width="128"
-   version="1.1">
+   height="128"
+   version="1.1"
+   id="svg24"
+   sodipodi:docname="application-octet-stream.svg"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs3174" />
-  <metadata
-     id="metadata3177">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+     id="defs28" />
+  <sodipodi:namedview
+     id="namedview26"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="6.296875"
+     inkscape:cx="63.920596"
+     inkscape:cy="64"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg24" />
   <path
-     style="fill:#fafafa;fill-opacity:1;stroke:none;display:inline"
-     id="path4160"
-     d="m 17.499929,1.500412 c 21.311061,0 93.000031,0.007 93.000031,0.007 l 1.1e-4,116.992628 c 0,0 -62.0001,0 -93.00014,0 0,-39.000029 0,-78.000054 0,-117.000079 z" />
+     style="opacity:0.2;stroke-width:2"
+     d="M 25.5,9 C 22.453,9 20,11.4976 20,14.6 v 100.8 c 0,3.10016 2.453,5.6 5.5,5.6 h 77 c 3.0448,0 5.5,-2.49984 5.5,-5.6 V 45 L 80,37 72,9 Z"
+     id="path2" />
   <path
-     style="opacity:0.3;fill:none;stroke:#000000;stroke-width:0.99992186;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
-     id="path4160-4"
-     d="m 17.499929,1.5004119 c 21.311061,0 93.000031,0.007 93.000031,0.007 l 1.1e-4,116.9926281 c 0,0 -62.0001,0 -93.00014,0 0,-39.000029 0,-78.000054 0,-117.0000791 z" />
+     style="fill:#e4e4e4;stroke-width:2"
+     d="M 25.5,8 C 22.453,8 20,10.4976 20,13.6 v 100.8 c 0,3.10016 2.453,5.6 5.5,5.6 h 77 c 3.0448,0 5.5,-2.49984 5.5,-5.6 V 44 L 80,36 72,8 Z"
+     id="path4" />
   <path
-     id="rect3137-6-5-5"
-     d="M 40 16 L 40 24 L 48 24 L 48 16 L 40 16 z M 48 24 L 48 32 L 56 32 L 56 24 L 48 24 z M 56 24 L 64 24 L 64 16 L 56 16 L 56 24 z M 64 24 L 64 32 L 72 32 L 72 24 L 64 24 z M 72 24 L 80 24 L 80 16 L 72 16 L 72 24 z M 80 24 L 80 32 L 88 32 L 88 24 L 80 24 z M 88 24 L 96 24 L 96 16 L 88 16 L 88 24 z M 88 32 L 88 40 L 96 40 L 96 32 L 88 32 z M 88 40 L 80 40 L 80 48 L 88 48 L 88 40 z M 88 48 L 88 56 L 96 56 L 96 48 L 88 48 z M 88 56 L 80 56 L 80 64 L 88 64 L 88 56 z M 88 64 L 88 72 L 96 72 L 96 64 L 88 64 z M 88 72 L 80 72 L 80 80 L 88 80 L 88 72 z M 88 80 L 88 88 L 96 88 L 96 80 L 88 80 z M 88 88 L 80 88 L 80 96 L 88 96 L 88 88 z M 88 96 L 88 104 L 96 104 L 96 96 L 88 96 z M 80 96 L 72 96 L 72 104 L 80 104 L 80 96 z M 72 96 L 72 88 L 64 88 L 64 96 L 72 96 z M 64 96 L 56 96 L 56 104 L 64 104 L 64 96 z M 56 96 L 56 88 L 48 88 L 48 96 L 56 96 z M 48 96 L 40 96 L 40 104 L 48 104 L 48 96 z M 40 96 L 40 88 L 32 88 L 32 96 L 40 96 z M 40 88 L 48 88 L 48 80 L 40 80 L 40 88 z M 40 80 L 40 72 L 32 72 L 32 80 L 40 80 z M 40 72 L 48 72 L 48 64 L 40 64 L 40 72 z M 40 64 L 40 56 L 32 56 L 32 64 L 40 64 z M 40 56 L 48 56 L 48 48 L 40 48 L 40 56 z M 40 48 L 40 40 L 32 40 L 32 48 L 40 48 z M 40 40 L 48 40 L 48 32 L 40 32 L 40 40 z M 40 32 L 40 24 L 32 24 L 32 32 L 40 32 z M 48 40 L 48 48 L 56 48 L 56 40 L 48 40 z M 56 40 L 64 40 L 64 32 L 56 32 L 56 40 z M 64 40 L 64 48 L 72 48 L 72 40 L 64 40 z M 72 40 L 80 40 L 80 32 L 72 32 L 72 40 z M 72 48 L 72 56 L 80 56 L 80 48 L 72 48 z M 72 56 L 64 56 L 64 64 L 72 64 L 72 56 z M 72 64 L 72 72 L 80 72 L 80 64 L 72 64 z M 72 72 L 64 72 L 64 80 L 72 80 L 72 72 z M 72 80 L 72 88 L 80 88 L 80 80 L 72 80 z M 64 80 L 56 80 L 56 88 L 64 88 L 64 80 z M 56 80 L 56 72 L 48 72 L 48 80 L 56 80 z M 56 72 L 64 72 L 64 64 L 56 64 L 56 72 z M 56 64 L 56 56 L 48 56 L 48 64 L 56 64 z M 56 56 L 64 56 L 64 48 L 56 48 L 56 56 z "
-     style="opacity:0.2;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.98542744;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     style="opacity:0.2;stroke-width:2"
+     d="M 108,45 72,9 V 39.375 C 72,42.4935 74.511,45 77.625,45 Z"
+     id="path6" />
+  <path
+     style="fill:#fafafa;stroke-width:2"
+     d="M 108,44 72,8 V 38.375 C 72,41.4935 74.511,44 77.625,44 Z"
+     id="path8" />
+  <path
+     style="opacity:0.2;fill:#ffffff;stroke-width:2"
+     d="M 25.5,8 C 22.453,8 20,10.499162 20,13.601562 v 2 C 20,12.499163 22.453,10 25.5,10 H 72 V 8 Z"
+     id="path10" />
+  <path
+     id="path12"
+     style="fill:#727272"
+     d="m 28,19 v 3 h 3 v 8 h 3 V 19 Z m 0,14 v 3 h 3 v 8 h 3 V 33 Z m 9,0 v 11 h 9 V 33 Z m 3,3 h 3 v 5 H 40 Z M 28,47 v 3 h 3 v 8 h 3 V 47 Z m 9,0 v 11 h 9 V 47 Z m 12,0 v 3 h 3 v 8 h 3 V 47 Z m -9,3 h 3 v 5 H 40 Z M 28,61 v 3 h 3 v 8 h 3 V 61 Z m 9,0 v 11 h 9 V 61 Z m 12,0 v 3 h 3 v 8 h 3 V 61 Z m 9,0 v 11 h 9 V 61 Z m -18,3 h 3 v 5 h -3 z m 21,0 h 3 v 5 H 61 Z M 28,75 v 3 h 3 v 8 h 3 V 75 Z m 9,0 v 11 h 9 V 75 Z m 12,0 v 3 h 3 v 8 h 3 V 75 Z m 9,0 v 11 h 9 V 75 Z m 12,0 v 3 h 3 v 8 h 3 V 75 Z m -30,3 h 3 v 5 h -3 z m 21,0 h 3 v 5 H 61 Z M 28,89 v 3 h 3 v 8 h 3 V 89 Z m 9,0 v 11 h 9 V 89 Z m 12,0 v 3 h 3 v 8 h 3 V 89 Z m 9,0 v 11 h 9 V 89 Z m 12,0 v 3 h 3 v 8 h 3 V 89 Z m 9,0 v 11 h 9 V 89 Z m -39,3 h 3 v 5 h -3 z m 21,0 h 3 v 5 h -3 z m 21,0 h 3 v 5 h -3 z m -54,11 v 3 h 3 v 8 h 3 v -11 z m 9,0 v 11 h 9 v -11 z m 12,0 v 3 h 3 v 8 h 3 v -11 z m 9,0 v 11 h 9 v -11 z m 12,0 v 3 h 3 v 8 h 3 v -11 z m 9,0 v 11 h 9 v -11 z m 12,0 v 3 h 3 v 8 h 3 v -11 z m -51,3 h 3 v 5 h -3 z m 21,0 h 3 v 5 h -3 z m 21,0 h 3 v 5 h -3 z" />
 </svg>
