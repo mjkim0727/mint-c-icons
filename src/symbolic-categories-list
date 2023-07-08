@@ -9,6 +9,11 @@ applications-graphics.png <- gnome-graphics.png
 applications-graphics.png <- package_graphics.png
 applications-graphics.png <- redhat-graphics.png
 applications-graphics.png <- xfce-graphics.png
+applications-internet.png <- gnome-globe.png
+applications-internet.png <- package_network.png
+applications-internet.png <- redhat-internet.png
+applications-internet.png <- stock_internet.png
+applications-internet.png <- xfce-internet.png
 cs-general.png <- cs-cat-prefs.png
 preferences-desktop-tweaks.png <- cs-desktop-effects.png
 preferences-desktop.png <- gnome-control-center.png

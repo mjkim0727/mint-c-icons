@@ -193,6 +193,10 @@ preferences-desktop-font.png <- font-viewer.png
 preferences-desktop-font.png <- gnome-settings-font.png
 preferences-desktop-font.png <- kfontview.png
 preferences-desktop-font.png <- org.gnome.font-viewer.png
+preferences-desktop-online-accounts.png <- credentials-preferences.png
+preferences-desktop-online-accounts.png <- cs-online-accounts.png
+preferences-desktop-online-accounts.png <- goa-panel.png
+preferences-desktop-online-accounts.png <- preferences-online-accounts.png
 preferences-desktop-screensaver.png <- cs-screensaver.png
 preferences-desktop-screensaver.png <- kscreensaver.png
 preferences-desktop-screensaver.png <- org.xfce.ScreenSaver.png
