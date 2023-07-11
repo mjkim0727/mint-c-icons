@@ -290,6 +290,14 @@ preferences-system-hotcorners.png <- cs-overview.png
 preferences-system-network.png <- knetattach.png
 preferences-system-network.png <- mate-network-properties.png
 preferences-system-network.png <- networkmanager.png
+preferences-system-notifications.png <- cs-notifications.png
+preferences-system-notifications.png <- gnome-panel-notification-area.png
+preferences-system-notifications.png <- mate-notification-properties.png
+preferences-system-notifications.png <- org.xfce.notification.png
+preferences-system-notifications.png <- preferences-desktop-notification-bell.png
+preferences-system-notifications.png <- preferences-desktop-notification.png
+preferences-system-notifications.png <- preferences-desktop-notifications.png
+preferences-system-notifications.png <- xfce4-notifyd.png
 preferences-system-power.png <- cs-power.png
 preferences-system-power.png <- gnome-power-manager.png
 preferences-system-power.png <- mate-power-manager.png
