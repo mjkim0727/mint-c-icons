@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (1:1.2.2+202305151914+b0a8486541)"
+   sodipodi:docname="audio-status-volume-muted-symbolic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="50.375"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2" />
+  <path
+     id="path1321"
+     style="fill:#bebebe;fill-opacity:1;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;opacity:0.35"
+     d="M 2.3789062 1 L 1.0195312 2.4335938 L 3.796875 5 L 1 5 L 1 11 L 4 11 L 8 15 L 8 8.8828125 L 10 10.730469 L 10 11 C 10.060377 10.966963 10.119578 10.931005 10.177734 10.894531 L 11.884766 12.472656 C 11.332528 12.925936 10.69512 13.278281 10 13.5 L 10 15 C 11.112372 14.724556 12.124161 14.192598 12.96875 13.472656 L 14.621094 15 L 16 13.566406 L 14.292969 11.990234 C 15.055605 10.850493 15.5 9.4799122 15.5 8 C 15.5 4.6000068 13.149995 1.7799984 10 1 L 10 2.5 C 12.319997 3.2399986 14 5.4300052 14 8 C 14 9.0834338 13.700866 10.098596 13.181641 10.966797 L 11.486328 9.4023438 C 11.68029 8.9752469 11.789063 8.501256 11.789062 8 C 11.789062 6.7000026 11.069999 5.5799988 10 5 L 10 8.03125 L 8 6.1855469 L 8 1 L 5.3027344 3.6972656 L 2.3789062 1 z M 4.9414062 6.0585938 L 6 7.0351562 L 6 11 L 4 9 L 3 9 L 3 7 L 4 7 L 4.9414062 6.0585938 z " />
+</svg>
