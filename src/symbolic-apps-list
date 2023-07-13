@@ -386,6 +386,8 @@ preferences-system-windows.png <- gnome-panel-window-menu.png
 preferences-system-windows.png <- gnome-window-manager.png
 preferences-system-windows.png <- kcmkwm.png
 preferences-system-windows.png <- kwin.png
+preferences-system-windows.png <- org.xfce.panel.windowmenu.png
+preferences-system-windows.png <- org.xfce.panel.tasks.png
 preferences-system-windows.png <- org.xfce.xfwm4.png
 preferences-system-windows.png <- preferences-system-windows-actions.png
 preferences-system-windows.png <- xfwm4.png
@@ -425,6 +427,7 @@ sublime_text.png <- sublimetext.png
 system-users.png <- config-users.png
 system-users.png <- cs-user-accounts.png
 system-users.png <- system-config-users.png
+system-users.png <- xfsm-switch-user.png
 thunderbird.png <- org.mozilla.Thunderbird.png
 thunderbird.png <- thunderbird-bin.png
 thunderbird.png <- thunderbird-icon.png
@@ -512,3 +515,10 @@ web-spotify.png <- spotify-exe.png
 web-spotify.png <- spotify-linux-48x48.png
 web-spotify.png <- Spotify.png
 web-spotify.png <- spotify.png
+workspace-switcher-top-left.png <- cs-workspaces.png
+workspace-switcher-top-left.png <- gnome-panel-workspace-switcher.png
+workspace-switcher-top-left.png <- mate-panel-workspace-switcher.png
+workspace-switcher-top-left.png <- org.xfce.panel.pager.png
+workspace-switcher-top-left.png <- org.xfce.workspaces.png
+workspace-switcher-top-left.png <- workspace-switcher.png
+workspace-switcher-top-left.png <- xfce4-workspaces.png
