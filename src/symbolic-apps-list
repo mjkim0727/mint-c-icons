@@ -127,6 +127,12 @@ disks.png <- gnome-device-manager.png
 disks.png <- gnome-disks.png
 disks.png <- org.gnome.DiskUtility.png
 disks.png <- palimpsest.png
+dropbox.png <- brave-ioekoebejdcmnlefjiknokhhafglcjdl-Default.png
+dropbox.png <- caja-dropbox.png
+dropbox.png <- chrome-ioekoebejdcmnlefjiknokhhafglcjdl-Default.png
+dropbox.png <- com.dropbox.Client.png
+dropbox.png <- kdepim-dropbox.png
+dropbox.png <- msedge-ioekoebejdcmnlefjiknokhhafglcjdl-Default.png
 earth.png <- google-earth.png
 earth.png <- web-google-earth.png
 emacs.png <- appimagekit-emacs.png
