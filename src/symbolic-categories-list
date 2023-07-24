@@ -1,7 +1,10 @@
+applications-accessories.png <- gnome-util.png
+applications-accessories.png <- redhat-accessories.png
 applications-development.png <- gnome-devel.png
 applications-development.png <- package_development.png
 applications-development.png <- redhat-programming.png
 applications-development.png <- xfce-devel.png
+applications-education.png <- applications-education-school.png
 applications-electronics.png <- cs-cat-hardware.png
 applications-electronics.png <- cs-drivers.png
 applications-graphics.png <- cs-cat-appearance.png
@@ -22,6 +25,7 @@ applications-multimedia.png <- redhat-sound_video.png
 applications-multimedia.png <- xfce-multimedia.png
 cs-general.png <- cs-cat-prefs.png
 cs-mouse.png <- preferences-desktop-peripherals.png
+cs-mouse.png <- org.xfce.settings.mouse.png
 cs-printer.png <- preferences-devices-printer.png
 preferences-desktop-default-applications.png <- cs-default-applications.png
 preferences-desktop-default-applications.png <- gnome-settings-default-applications.png
@@ -32,5 +36,6 @@ preferences-desktop.png <- gnome-control-center.png
 preferences-desktop.png <- gnome-settings.png
 preferences-desktop.png <- gtk-preferences.png
 preferences-desktop.png <- kcontrol.png
+preferences-desktop.png <- org.xfce.settings.manager.png
 preferences-desktop.png <- redhat-preferences.png
 preferences-desktop.png <- xfce4-settings.png
