@@ -261,6 +261,7 @@ meld.png <- org.gnome.Meld.png
 meld.png <- org.gnome.meld.png
 microsoft-edge.png <- ms-edge.png
 microsoft-edge.png <- com.microsoft.Edge.png
+midori.png <- org.midori_browser.Midori.png
 minecraft.png <- com.mojang.Minecraft.png
 minecraft.png <- lutris_minecraft.png
 minecraft.png <- minecraft-launcher.png
@@ -467,6 +468,8 @@ sudoku.png <- gnome-sudoku.png
 sudoku.png <- ksudoku.png
 sudoku.png <- org.gnome.Sudoku.png
 sudoku.png <- org.kde.ksudoku.png
+syncthing.png <- me.kozec.syncthingtk.png
+syncthing.png <- syncthing-gtk.png
 system-file-manager.png <- nautilus.png
 system-file-manager.png <- nemo.png
 system-file-manager.png <- org.gnome.nautilus.png
@@ -541,6 +544,7 @@ visual-studio-code-exploration.png <- vscode-exploration.png
 vivaldi.png <- vivaldi-stable.png
 vlc.png <- org.videolan.VLC.png
 vmplayer.png <- vmware-player.png
+vscodium.png <- com.vscodium.codium.png
 warpinator.png <- org.x.Warpinator.png
 web-angry-birds.png <- angry-birds.png
 web-angry-birds.png <- chrome-aknpkdffaafgjchaibgeefbgmgeghloj-Default.png
