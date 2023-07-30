@@ -1,3 +1,7 @@
+help-about.png <- gtk-about.png
+help-about.png <- stock_about.png
+help-info.png <- gtk-info.png
+help-info.png <- stock_info.png
 system-hibernate.png <- gnome-panel-hibernate.png
 system-hibernate.png <- gnome-session-hibernate.png
 system-hibernate.png <- xfsm-hibernate.png

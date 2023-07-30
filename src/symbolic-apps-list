@@ -101,9 +101,11 @@ clock.png <- alarm-clock.png
 clock.png <- cuckoo.png
 clock.png <- hamster-time-tracker.png
 clock.png <- org.xfce.panel.clock.png
+codeblocks.png <- org.codeblocks.codeblocks.png
 csgo.png <- csgo_linux64.png
 csgo.png <- lutris_counter-strike-global-offensive.png
 csgo.png <- steam_icon_730.png
+darktable.png <- org.darktable.Darktable.png
 dconf-editor.png <- ca.desrt.dconf-editor.png
 deja-dup.png <- luckybackup.png
 deja-dup.png <- mintbackup.png
