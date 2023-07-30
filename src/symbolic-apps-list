@@ -122,6 +122,7 @@ desktop-environment-xfce.png <- xfce4-panel.png
 desktop-environment-xfce.png <- xfce4-panel-menu.png
 desktop-tweaks.png <- org.xfce.xfwm4-tweaks.png
 desktop-tweaks.png <- wmtweaks.png
+dia.png <- org.gnome.Dia.png
 discord.png <- com.discordapp.Discord.png
 discord.png <- discord-bin.png
 discord.png <- discord-ptb.png
