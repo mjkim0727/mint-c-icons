@@ -25,7 +25,7 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="50.375"
-     inkscape:cx="8.0198511"
+     inkscape:cx="8.0297767"
      inkscape:cy="8"
      inkscape:window-width="1920"
      inkscape:window-height="1008"
@@ -36,9 +36,10 @@
   <defs
      id="defs2" />
   <path
-     d="M 8,1 4,5 H 1 v 6.000001 H 4 L 8,15 Z M 6,5 v 6.000001 L 4,9.0000005 H 3 V 7 h 1 z"
+     d="M 8,1 4,5 H 1 v 6.000001 H 4 L 8,15 Z M 5.99997,5.82812 v 4.34181 L 4.83005,9.0000001 3,9.0000006 V 7 h 1.83005 z"
      style="fill:#bebebe;fill-opacity:1;stroke-width:5;stroke-linecap:round;stroke-linejoin:round"
-     id="path1321" />
+     id="path1321"
+     sodipodi:nodetypes="cccccccccccccc" />
   <path
      d="m 10,1 v 1.5 c 2.319999,0.7399993 4.000001,2.9300026 4.000001,5.5 0,2.569997 -1.680002,4.760001 -4.000001,5.5 V 15 c 3.149998,-0.779999 5.500001,-3.600003 5.500001,-7 0,-3.3999966 -2.350003,-6.2200008 -5.500001,-7 z"
      style="fill:#bebebe;fill-opacity:1;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;opacity:0.35"
