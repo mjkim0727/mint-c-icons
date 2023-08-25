@@ -51,6 +51,10 @@ aisleriot.png <- kpatience.png
 aisleriot.png <- lutris_kpartience.png
 aisleriot.png <- org.gnome.Aisleriot.png
 aisleriot.png <- org.kde.kpat.png
+androidstudio-preview.png <- android-studio-beta.png
+androidstudio-preview.png <- android-studio-canary.png
+androidstudio.png <- android-studio.png
+androidstudio.png <- com.google.AndroidStudio.png
 archive-manager.png <- 7zip.png
 archive-manager.png <- 7z.png
 archive-manager.png <- archivemanager.png
