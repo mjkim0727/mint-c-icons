@@ -26,6 +26,7 @@ applications-multimedia.png <- xfce-multimedia.png
 cs-general.png <- cs-cat-prefs.png
 cs-mouse.png <- preferences-desktop-peripherals.png
 cs-mouse.png <- org.xfce.settings.mouse.png
+cs-printer.png <- csd-printer.png
 cs-printer.png <- preferences-devices-printer.png
 preferences-desktop-default-applications.png <- cs-default-applications.png
 preferences-desktop-default-applications.png <- gnome-settings-default-applications.png
