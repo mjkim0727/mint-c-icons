@@ -202,6 +202,8 @@ gnome-clocks.png <- mate-panel-clock.png
 gnome-clocks.png <- org.gnome.clocks.png
 gnome-clocks.png <- org.gnome.Clocks.png
 gnome-photos.png <- org.gnome.Photos.png
+gnome-power-statistics.png <- mate-power-statistics.png
+gnome-power-statistics.png <- org.gnome.PowerStats.png
 gnome-software.png <- org.gnome.Software.png
 google-chrome-canary.png <- google-chrome-unstable.png
 google-chrome.png <- com.google.Chrome.png
@@ -226,6 +228,18 @@ ibus.png <- ibus-setup-chewing.png
 ibus.png <- ibus-setup.png
 inkscape.png <- org.inkscape.Inkscape.png
 inkscape.png <- inkscape-logo.png
+internet-mail.png <- claws-mail.png
+internet-mail.png <- email.png
+internet-mail.png <- evolution.png
+internet-mail.png <- geary.png
+internet-mail.png <- kmail.png
+internet-mail.png <- mail-generic.png
+internet-mail.png <- mail_generic.png
+internet-mail.png <- org.gnome.Geary.png
+internet-mail.png <- redhat-email.png
+internet-mail.png <- sylpheed.png
+internet-mail.png <- unity-mail.png
+internet-mail.png <- xfce-mail.png
 internet-news-reader.png <- akregator.png
 internet-news-reader.png <- liferea.png
 internet-news-reader.png <- pan.png
@@ -357,6 +371,7 @@ plasma.png <- plasmashell.png
 plasma.png <- preferences-desktop-plasma.png
 preferences-color.png <- application-vnd.iccprofile.png
 preferences-color.png <- cinnamon-preferences-color.png
+preferences-color.png <- csd-color.png
 preferences-color.png <- gnome-color-manager.png
 preferences-color.png <- mate-color-manager.png
 preferences-color.png <- org.xfce.settings.color.png
@@ -383,6 +398,11 @@ preferences-desktop-font.png <- font-viewer.png
 preferences-desktop-font.png <- gnome-settings-font.png
 preferences-desktop-font.png <- kfontview.png
 preferences-desktop-font.png <- org.gnome.font-viewer.png
+preferences-desktop-keyboard.png <- cs-keyboard.png
+preferences-desktop-keyboard.png <- eekboard.png
+preferences-desktop-keyboard.png <- org.xfce.settings.keyboard.png
+preferences-desktop-keyboard-shortcuts.png <- gnome-settings-keybindings.png
+preferences-desktop-keyboard-shortcuts.png <- key_bindings.png
 preferences-desktop-online-accounts.png <- credentials-preferences.png
 preferences-desktop-online-accounts.png <- cs-online-accounts.png
 preferences-desktop-online-accounts.png <- goa-panel.png
