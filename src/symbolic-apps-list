@@ -505,6 +505,17 @@ scrcpy.png <- qtscrcpy.png
 scribus.png <- net.scribus.Scribus.png
 scribus.png <- scribus-ng.png
 scribus.png <- scribus-trunk.png
+session-properties.png <- cinnamon-session-properties.png
+session-properties.png <- cs-startup-programs.png
+session-properties.png <- gnome-session.png
+session-properties.png <- gnome-session-properties.png
+session-properties.png <- mate-session-properties.png
+session-properties.png <- mdmflexiserver.png
+session-properties.png <- org.xfce.session.png
+session-properties.png <- preferences-system-session.png
+session-properties.png <- preferences-system-session-services.png
+session-properties.png <- system-config-services.png
+session-properties.png <- xfce4-session.png
 shotcut.png <- org.shotcut.Shotcut.png
 skype.png <- brave-damddgdogmdhjjbgpfpgmkdgdgjhohef-Default.png
 skype.png <- chrome-damddgdogmdhjjbgpfpgmkdgdgjhohef-Default.png
